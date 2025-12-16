@@ -1,0 +1,1 @@
+var json_Bank_19 = {"type":"FeatureCollection","name":"Bank_19","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","nama":"Bank BRI","alamat":"PAsir Kulon"},"geometry":{"type":"Point","coordinates":[109.202031378652137,-7.408117958551216]}}]}

@@ -1,0 +1,1 @@
+var json_Lapangan_16 = {"type":"FeatureCollection","name":"Lapangan_16","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","nama":"Lapangan Desa Pasir Kulon","alamat":"Jl. Kyai Murtadlo, Pasir Kulon"},"geometry":{"type":"Point","coordinates":[109.196948370369043,-7.405981548636563]}}]}

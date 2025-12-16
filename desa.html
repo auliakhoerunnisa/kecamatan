@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Peta Desa | Pasir Kulon</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav class="navbar">
+  <a href="index.html">Beranda</a>
+  <a href="desa.html">Peta Desa</a>
+  <a href="kecamatan.html">Peta Kecamatan</a>
+  <a href="tentang.html">Tentang</a>
+</nav>
+
+<section class="content">
+  <h2>Peta Wilayah Desa Pasir Kulon</h2>
+  <p>
+    Halaman ini menampilkan peta wilayah administrasi Desa Pasir Kulon.
+  </p>
+</div>
+
+  <!-- GANTI DENGAN LINK WEBQGIS DESA -->
+  <iframe src="http://127.0.0.1:5500/desa/index.html#14/-7.4070/109.1879"></iframe>
+</section>
+
+<footer>© 2025 Desa Pasir Kulon</footer>
+
+<script>
+function searchLocationDesa() {
+  const q = document.getElementById("searchDesa").value;
+  if(q !== "") {
+    window.open(
+      "https://www.openstreetmap.org/search?query=" + q + " Pasir Kulon Karanglewas",
+      "_blank"
+    );
+  }
+}
+</script>
+
+</body>
+</html>

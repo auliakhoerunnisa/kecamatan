@@ -1,0 +1,1 @@
+var json_fasilitasumum_21 = {"type":"FeatureCollection","name":"fasilitasumum_21","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","nama":"Gor Soehadi Pasir Kulon","alamat":"PAsir Kulon"},"geometry":{"type":"Point","coordinates":[109.197353813031967,-7.405199462774906]}}]}

@@ -1,0 +1,1 @@
+var json_RumahSaya_16 = {"type":"FeatureCollection","name":"RumahSaya_16","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","nama":"Rumah Aulia","alamat":"Pasir Kulon RT02/04"},"geometry":{"type":"Point","coordinates":[109.200075846490193,-7.407692249259196]}}]}
